@@ -13,7 +13,7 @@ Once DeepFace is installed, you can proceed with using it to recognize emotions 
 
 My test image:
 <div align="center">
-<img src='https://github.com/Sarvandani/Computer_vision_emotion_recognition/blob/main/EMOTION.jpg'>
+<img src='https://github.com/Sarvandani/Computer_vision_emotion_recognition/blob/main/EMOTION.jpg' width='400' height='600'>
 </div>
 
 ```python
